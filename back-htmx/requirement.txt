@@ -1,0 +1,9 @@
+fastapi
+numpy
+pandas
+scikit-learn
+sqlalchemy 
+psycopg2
+pydantic    
+loguru
+jinja2

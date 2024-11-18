@@ -1,0 +1,1254 @@
+2024-08-17 19:25:14.822 | INFO     | back.api:add_process_time_header:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 19:25:19.558 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 19:25:19.558 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 19:25:20.148 | INFO     | back.db:get_db:12 - connected
+2024-08-17 19:25:20.467 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 19:25:20.748 | INFO     | back.api:add_process_time_header:39 - Processed exerciseDetails/?user_id=1 in 5.92598295211792 seconds
+2024-08-17 19:25:20.755 | INFO     | back.api:add_process_time_header:36 - Request: GET path muscle_groups/
+2024-08-17 19:25:20.757 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 19:25:20.757 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 19:25:21.449 | INFO     | back.db:get_db:12 - connected
+2024-08-17 19:25:21.794 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 19:25:22.085 | INFO     | back.api:add_process_time_header:39 - Processed muscle_groups/ in 1.3300809860229492 seconds
+2024-08-17 20:37:12.852 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 20:37:17.632 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:37:17.633 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:37:18.253 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:37:18.578 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:37:18.881 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 6.028689861297607 seconds
+2024-08-17 20:39:52.449 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 20:39:53.507 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 20:39:57.861 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:39:57.861 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:39:57.862 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:39:57.862 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:39:58.692 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:39:58.702 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:39:59.118 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:39:59.145 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:39:59.417 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 5.910093069076538 seconds
+2024-08-17 20:39:59.424 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 20:39:59.424 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:39:59.425 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:39:59.447 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 6.997578144073486 seconds
+2024-08-17 20:40:00.099 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:40:00.578 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:40:00.922 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 1.4985809326171875 seconds
+2024-08-17 20:40:15.412 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 20:40:15.451 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:40:15.451 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:40:16.315 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:40:17.403 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:40:17.727 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 2.315251111984253 seconds
+2024-08-17 20:40:17.734 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 20:40:17.735 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:40:17.735 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:40:18.808 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:40:19.172 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:40:19.740 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 2.005657911300659 seconds
+2024-08-17 20:42:49.400 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/set?user_id=1&exercise_details_id=5&exercise_id=1
+2024-08-17 20:42:53.674 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:42:53.674 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:42:54.258 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:42:54.600 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:42:54.890 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/set?user_id=1&exercise_details_id=5&exercise_id=1 in 5.490393161773682 seconds
+2024-08-17 20:47:53.543 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=2
+2024-08-17 20:48:00.217 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:48:00.217 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:48:00.906 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:48:01.218 | ERROR    | back.db:get_db:15 - 'CursorResult' object has no attribute 'mapping'
+2024-08-17 20:48:01.219 | INFO     | back.db:get_db:16 - Reconnecting
+2024-08-17 20:48:09.393 | INFO     | back.db:get_db:19 - Reconnected
+2024-08-17 20:48:30.674 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1
+2024-08-17 20:48:37.265 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:48:37.265 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:48:38.316 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:48:38.700 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:48:39.057 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 8.38322114944458 seconds
+2024-08-17 20:48:46.634 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1
+2024-08-17 20:48:46.635 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 20:48:46.635 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 20:48:47.679 | INFO     | back.db:get_db:12 - connected
+2024-08-17 20:48:48.113 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 20:48:48.778 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 2.144171953201294 seconds
+2024-08-17 21:03:43.819 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 21:03:43.842 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:03:43.843 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:03:44.468 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:03:44.796 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:03:45.134 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 1.3151869773864746 seconds
+2024-08-17 21:03:45.142 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 21:03:45.144 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:03:45.146 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:03:45.751 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:03:43.930 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:03:44.232 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in -0.9100701808929443 seconds
+2024-08-17 21:42:54.958 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1
+2024-08-17 21:43:00.000 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:00.001 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:01.272 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:01.620 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:01.937 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 6.97943902015686 seconds
+2024-08-17 21:43:03.455 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1
+2024-08-17 21:43:03.457 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:03.457 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:04.068 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:04.432 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:04.732 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 1.2766430377960205 seconds
+2024-08-17 21:43:08.926 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=2
+2024-08-17 21:43:08.928 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:08.929 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:09.745 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:10.074 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:10.379 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=2 in 1.4528419971466064 seconds
+2024-08-17 21:43:13.271 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=3
+2024-08-17 21:43:13.272 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:13.273 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:14.015 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:14.355 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:14.673 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=3 in 1.4019839763641357 seconds
+2024-08-17 21:43:18.234 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1
+2024-08-17 21:43:18.237 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:18.237 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:18.861 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:19.173 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:19.484 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 1.2493431568145752 seconds
+2024-08-17 21:43:27.604 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=2
+2024-08-17 21:43:27.606 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:27.606 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:28.367 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:28.708 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:29.014 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=2 in 1.4094903469085693 seconds
+2024-08-17 21:43:29.519 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1
+2024-08-17 21:43:29.520 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:29.521 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:30.117 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:30.419 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:30.732 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 1.2131948471069336 seconds
+2024-08-17 21:43:33.024 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1
+2024-08-17 21:43:33.026 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:33.027 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:33.876 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:34.186 | INFO     | back.models.exercise:fetchNextSets:43 - Got the previous set
+2024-08-17 21:43:34.188 | INFO     | back.models.exercise:fetchNextSets:51 - Predicted the 0 set
+2024-08-17 21:43:34.190 | INFO     | back.models.exercise:fetchNextSets:51 - Predicted the 1 set
+2024-08-17 21:43:34.191 | INFO     | back.models.exercise:fetchNextSets:51 - Predicted the 2 set
+2024-08-17 21:43:34.193 | INFO     | back.models.exercise:fetchNextSets:51 - Predicted the 3 set
+2024-08-17 21:43:34.195 | INFO     | back.models.exercise:fetchNextSets:51 - Predicted the 4 set
+2024-08-17 21:43:34.196 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:34.498 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 1.4732770919799805 seconds
+2024-08-17 21:43:34.524 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/
+2024-08-17 21:43:34.525 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.0007150173187255859 seconds
+2024-08-17 21:43:34.528 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 21:43:34.531 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 21:43:34.531 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 21:43:35.152 | INFO     | back.db:get_db:12 - connected
+2024-08-17 21:43:35.765 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 21:43:35.765 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 1.2373108863830566 seconds
+2024-08-17 22:01:33.125 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 22:01:38.190 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:01:38.190 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:01:38.775 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:01:39.189 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:01:39.673 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 6.547587871551514 seconds
+2024-08-17 22:06:35.451 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 22:06:40.553 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:06:40.553 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:06:41.182 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:06:41.478 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:06:41.858 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 6.407071113586426 seconds
+2024-08-17 22:14:39.273 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1
+2024-08-17 22:14:43.985 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:14:43.986 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:14:44.584 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:14:44.882 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:14:45.180 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 5.908009052276611 seconds
+2024-08-17 22:14:46.832 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1
+2024-08-17 22:14:46.833 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:14:46.833 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:14:47.795 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:14:48.099 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:14:48.409 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 1.5772957801818848 seconds
+2024-08-17 22:14:49.680 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1
+2024-08-17 22:14:49.681 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:14:49.682 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:14:50.283 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:14:50.621 | INFO     | back.models.exercise:fetchNextSets:63 - Got the previous set
+2024-08-17 22:14:50.633 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 0 set
+2024-08-17 22:14:50.634 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 1 set
+2024-08-17 22:14:50.635 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 2 set
+2024-08-17 22:14:50.636 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 3 set
+2024-08-17 22:14:50.637 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 4 set
+2024-08-17 22:14:50.638 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:14:50.933 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 1.2533888816833496 seconds
+2024-08-17 22:14:50.966 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/
+2024-08-17 22:14:50.967 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.0006937980651855469 seconds
+2024-08-17 22:14:50.970 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:14:50.974 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:14:50.975 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:14:51.598 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:14:51.902 | ERROR    | back.db:get_db:15 - too many values to unpack (expected 2)
+2024-08-17 22:14:51.902 | INFO     | back.db:get_db:16 - Reconnecting
+2024-08-17 22:14:58.019 | INFO     | back.db:get_db:19 - Reconnected
+2024-08-17 22:14:58.162 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 22:14:59.729 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:14:59.730 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:15:00.325 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:15:00.628 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:15:00.923 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 2.761168956756592 seconds
+2024-08-17 22:15:00.930 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 22:15:00.931 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:15:00.932 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:15:01.559 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:15:01.839 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:15:02.123 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 1.192734956741333 seconds
+2024-08-17 22:30:58.223 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1
+2024-08-17 22:31:04.472 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:31:04.473 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:31:05.418 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:31:05.816 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:31:06.178 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 7.955212593078613 seconds
+2024-08-17 22:31:07.724 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1
+2024-08-17 22:31:07.725 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:31:07.725 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:31:08.375 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:31:08.694 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:31:09.010 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 1.2865469455718994 seconds
+2024-08-17 22:31:13.290 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1
+2024-08-17 22:31:13.291 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:31:13.292 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:31:13.947 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:31:14.272 | INFO     | back.models.exercise:fetchNextSets:63 - Got the previous set
+2024-08-17 22:31:14.273 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 0 set
+2024-08-17 22:31:14.275 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 1 set
+2024-08-17 22:31:14.276 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 2 set
+2024-08-17 22:31:14.277 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 3 set
+2024-08-17 22:31:14.278 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 4 set
+2024-08-17 22:31:14.280 | INFO     | back.db:get_db:22 - Closing connection
+2024-08-17 22:31:14.732 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 1.4419260025024414 seconds
+2024-08-17 22:31:14.758 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/
+2024-08-17 22:31:14.759 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.001065969467163086 seconds
+2024-08-17 22:31:14.763 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:31:14.767 | INFO     | back.db:get_db:8 - connected to db
+2024-08-17 22:31:14.767 | INFO     | back.db:get_db:10 - checking connection
+2024-08-17 22:31:15.515 | INFO     | back.db:get_db:12 - connected
+2024-08-17 22:31:15.876 | ERROR    | back.db:get_db:15 - too many values to unpack (expected 2)
+2024-08-17 22:31:15.877 | INFO     | back.db:get_db:16 - Reconnecting
+2024-08-17 22:31:22.465 | INFO     | back.db:get_db:19 - Reconnected
+2024-08-17 22:33:38.776 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:33:47.157 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:33:47.158 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:33:47.812 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:33:48.215 | ERROR    | back.db:get_db:19 - too many values to unpack (expected 2)
+2024-08-17 22:33:48.216 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-17 22:33:52.919 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-17 22:36:28.874 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:36:28.946 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:36:34.129 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:36:34.130 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:36:34.130 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:36:34.131 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:36:34.711 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:36:34.904 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:36:35.005 | ERROR    | back.db:get_db:20 - too many values to unpack (expected 2)
+2024-08-17 22:36:35.006 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:36:35.287 | ERROR    | back.db:get_db:20 - too many values to unpack (expected 2)
+2024-08-17 22:36:35.287 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:36:39.954 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:36:41.818 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:38:30.915 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:38:36.711 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:38:36.711 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:38:37.474 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:38:38.104 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:38:38.105 | ERROR    | back.db:get_db:20 - too many values to unpack (expected 2)
+2024-08-17 22:38:38.105 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:38:42.806 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:39:19.684 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:39:25.866 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:39:25.866 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:39:26.542 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:39:26.901 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:39:27.307 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:39:27.671 | ERROR    | back.db:get_db:20 - (psycopg2.errors.NotNullViolation) null value in column "exercise_id" of relation "set_details" violates not-null constraint
+DETAIL:  Failing row contains (1, null, 8, 1, 12, 45).
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 8, 'set_number': 1, 'weight': 45.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-08-17 22:39:27.671 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:39:32.488 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:42:15.532 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/
+2024-08-17 22:42:15.534 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.0018007755279541016 seconds
+2024-08-17 22:42:15.543 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:42:20.148 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:42:20.148 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:42:20.752 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:42:21.061 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:42:21.068 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 8, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=45.0, reps=12), setDetail(set_number=2, weight=30.0, reps=12), setDetail(set_number=3, weight=17.5, reps=10), setDetail(set_number=4, weight=27.5, reps=15)]}
+2024-08-17 22:42:21.371 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:42:22.026 | ERROR    | back.db:get_db:20 - (psycopg2.errors.NotNullViolation) null value in column "exercise_id" of relation "set_details" violates not-null constraint
+DETAIL:  Failing row contains (1, null, 8, 1, 12, 45).
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 8, 'set_number': 1, 'weight': 45.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-08-17 22:42:22.027 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:42:26.712 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:44:09.670 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:44:14.224 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:44:14.224 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:44:14.898 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:44:15.195 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:44:15.195 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 8, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=45.0, reps=12), setDetail(set_number=2, weight=30.0, reps=12), setDetail(set_number=3, weight=17.5, reps=10), setDetail(set_number=4, weight=27.5, reps=15)]}
+2024-08-17 22:44:15.496 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:44:15.960 | ERROR    | back.db:get_db:20 - (psycopg2.errors.NotNullViolation) null value in column "exercise_id" of relation "set_details" violates not-null constraint
+DETAIL:  Failing row contains (1, null, 8, 1, 12, 45).
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 8, 'set_number': 1, 'weight': 45.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-08-17 22:44:15.960 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:44:20.467 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:45:08.378 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:45:13.038 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:45:13.038 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:45:13.620 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:45:13.918 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:45:13.919 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 8, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=45.0, reps=12), setDetail(set_number=2, weight=30.0, reps=12), setDetail(set_number=3, weight=17.5, reps=10), setDetail(set_number=4, weight=27.5, reps=15)]}
+2024-08-17 22:45:14.208 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:45:14.587 | ERROR    | back.db:get_db:20 - (psycopg2.errors.NotNullViolation) null value in column "exercise_id" of relation "set_details" violates not-null constraint
+DETAIL:  Failing row contains (1, null, 8, 1, 12, 45).
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 8, 'set_number': 1, 'weight': 45.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-08-17 22:45:14.588 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:45:19.138 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:46:01.453 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:46:06.311 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:46:06.311 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:46:06.919 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:46:07.274 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:46:07.275 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 8, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=45.0, reps=12), setDetail(set_number=2, weight=30.0, reps=12), setDetail(set_number=3, weight=17.5, reps=10), setDetail(set_number=4, weight=27.5, reps=15)]}
+2024-08-17 22:46:07.605 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:46:08.009 | ERROR    | back.db:get_db:20 - (psycopg2.errors.NotNullViolation) null value in column "exercise_id" of relation "set_details" violates not-null constraint
+DETAIL:  Failing row contains (1, null, 8, 1, 12, 45).
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 8, 'set_number': 1, 'weight': 45.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-08-17 22:46:08.009 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:46:14.149 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:47:09.422 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:47:14.737 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:47:14.737 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:47:15.386 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:47:15.773 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:47:15.774 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 8, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=45.0, reps=12), setDetail(set_number=2, weight=30.0, reps=12), setDetail(set_number=3, weight=17.5, reps=10), setDetail(set_number=4, weight=27.5, reps=15)]}
+2024-08-17 22:47:16.070 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:47:16.471 | ERROR    | back.db:get_db:20 - (psycopg2.errors.NotNullViolation) null value in column "exercise_id" of relation "set_details" violates not-null constraint
+DETAIL:  Failing row contains (1, null, 8, 1, 12, 45).
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 8, 'set_number': 1, 'weight': 45.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-08-17 22:47:16.472 | INFO     | back.db:get_db:21 - Reconnecting
+2024-08-17 22:47:21.291 | INFO     | back.db:get_db:26 - Reconnected
+2024-08-17 22:49:06.359 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:49:11.121 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:11.122 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:11.711 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:12.026 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 8
+2024-08-17 22:49:12.026 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 8, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=45.0, reps=12), setDetail(set_number=2, weight=30.0, reps=12), setDetail(set_number=3, weight=17.5, reps=10), setDetail(set_number=4, weight=27.5, reps=15)]}
+2024-08-17 22:49:12.328 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 8
+2024-08-17 22:49:13.535 | INFO     | back.models.exerciseDetails:insert:125 - Inserted sets 8
+2024-08-17 22:49:13.834 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:13.834 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 7.475665092468262 seconds
+2024-08-17 22:49:23.227 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 22:49:23.229 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:23.230 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:23.935 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:24.337 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:24.665 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 1.4381449222564697 seconds
+2024-08-17 22:49:24.672 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 22:49:24.673 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:24.673 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:25.289 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:25.576 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:25.871 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 1.1991901397705078 seconds
+2024-08-17 22:49:43.520 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1
+2024-08-17 22:49:43.521 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:43.522 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:44.178 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:44.472 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:44.801 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 1.2808811664581299 seconds
+2024-08-17 22:49:46.004 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1
+2024-08-17 22:49:46.006 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:46.006 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:46.595 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:46.921 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:47.236 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 1.2318990230560303 seconds
+2024-08-17 22:49:48.485 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1
+2024-08-17 22:49:48.488 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:48.489 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:49.081 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:49.389 | INFO     | back.models.exercise:fetchNextSets:63 - Got the previous set
+2024-08-17 22:49:49.392 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 0 set
+2024-08-17 22:49:49.393 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 1 set
+2024-08-17 22:49:49.394 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 2 set
+2024-08-17 22:49:49.395 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 3 set
+2024-08-17 22:49:49.397 | INFO     | back.models.exercise:fetchNextSets:75 - Predicted the 4 set
+2024-08-17 22:49:49.398 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:49.749 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 1.2641627788543701 seconds
+2024-08-17 22:49:49.789 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/
+2024-08-17 22:49:49.791 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:49.792 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:50.391 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:50.701 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 9
+2024-08-17 22:49:50.701 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 9, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=5.0, reps=12), setDetail(set_number=2, weight=32.5, reps=13), setDetail(set_number=3, weight=40.0, reps=413), setDetail(set_number=4, weight=25.0, reps=15), setDetail(set_number=5, weight=7.5, reps=2)]}
+2024-08-17 22:49:50.999 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 9
+2024-08-17 22:49:52.616 | INFO     | back.models.exerciseDetails:insert:125 - Inserted sets 9
+2024-08-17 22:49:52.910 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:52.911 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 3.1214258670806885 seconds
+2024-08-17 22:49:56.140 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-17 22:49:56.145 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:56.149 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:56.931 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:57.275 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:57.561 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 1.4209058284759521 seconds
+2024-08-17 22:49:57.569 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-17 22:49:57.570 | INFO     | back.db:get_db:12 - connected to db
+2024-08-17 22:49:57.571 | INFO     | back.db:get_db:14 - checking connection
+2024-08-17 22:49:58.179 | INFO     | back.db:get_db:16 - connected
+2024-08-17 22:49:58.516 | INFO     | back.db:get_db:29 - Closing connection
+2024-08-17 22:49:58.810 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 1.240666151046753 seconds
+2024-08-18 00:11:36.127 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 00:11:36.187 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 13:24:45.531 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 13:24:45.602 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 16:29:00.281 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 16:29:00.324 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 18:45:07.777 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 18:45:20.842 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 18:45:20.843 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 18:45:23.121 | INFO     | back.db:get_db:16 - connected
+2024-08-18 18:45:23.852 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 18:45:24.596 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 16.821011781692505 seconds
+2024-08-18 18:50:10.238 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 18:50:10.239 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 18:50:10.240 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 18:50:10.243 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-18 18:50:10.244 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-18 18:50:17.812 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-18 18:50:19.022 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 18:50:19.608 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 9.370502948760986 seconds
+2024-08-18 20:44:01.700 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 20:44:01.722 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 20:44:01.723 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 20:44:01.724 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-18 20:44:01.725 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-18 20:44:11.613 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-18 20:44:12.804 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 20:44:13.332 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 11.63161301612854 seconds
+2024-08-18 20:49:04.207 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 20:49:04.214 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 20:49:04.214 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 20:49:04.215 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-18 20:49:04.215 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-18 20:49:13.938 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-18 20:49:15.061 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 20:49:15.817 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 11.609902143478394 seconds
+2024-08-18 21:01:22.308 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 21:01:22.448 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 21:01:22.449 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 21:01:22.450 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-18 21:01:22.451 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-18 21:01:31.502 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-18 21:01:32.600 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 21:01:33.091 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 10.782348871231079 seconds
+2024-08-18 21:06:24.366 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 21:06:24.373 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 21:06:24.373 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 21:06:24.374 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-18 21:06:24.374 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-18 21:06:33.647 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-18 21:06:34.710 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 21:06:35.165 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 10.798880100250244 seconds
+2024-08-18 22:40:04.431 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-18 22:40:11.673 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 22:40:11.673 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 22:40:12.739 | INFO     | back.db:get_db:16 - connected
+2024-08-18 22:40:13.262 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-18 22:40:13.760 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 9.329273223876953 seconds
+2024-08-18 23:03:29.054 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-18 23:03:29.067 | INFO     | back.db:get_db:12 - connected to db
+2024-08-18 23:03:29.068 | INFO     | back.db:get_db:14 - checking connection
+2024-08-18 23:04:17.122 | ERROR    | back.db:get_db:19 - (psycopg2.DatabaseError) SSL SYSCALL error: Operation timed out
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-08-18 23:04:17.124 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-19 08:06:24.394 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-19 08:06:33.226 | INFO     | back.db:get_db:12 - connected to db
+2024-08-19 08:06:33.226 | INFO     | back.db:get_db:14 - checking connection
+2024-08-19 08:06:34.394 | INFO     | back.db:get_db:16 - connected
+2024-08-19 08:06:35.273 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-19 08:06:35.842 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 11.450064182281494 seconds
+2024-08-19 12:57:28.927 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-19 12:57:28.940 | INFO     | back.db:get_db:12 - connected to db
+2024-08-19 12:57:28.941 | INFO     | back.db:get_db:14 - checking connection
+2024-08-19 12:57:29.390 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-19 12:57:32.280 | INFO     | back.db:get_db:12 - connected to db
+2024-08-19 12:57:32.281 | INFO     | back.db:get_db:14 - checking connection
+2024-08-19 12:57:33.250 | INFO     | back.db:get_db:16 - connected
+2024-08-19 12:57:33.749 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-19 12:57:34.378 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 4.987791061401367 seconds
+2024-08-19 12:58:46.906 | ERROR    | back.db:get_db:19 - (psycopg2.DatabaseError) SSL SYSCALL error: Operation timed out
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-08-19 12:58:46.907 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-19 12:58:54.463 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-19 12:58:55.740 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-19 12:58:56.256 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 87.33025121688843 seconds
+2024-08-19 13:02:31.907 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-19 13:02:31.908 | INFO     | back.db:get_db:12 - connected to db
+2024-08-19 13:02:31.908 | INFO     | back.db:get_db:14 - checking connection
+2024-08-19 13:02:32.982 | INFO     | back.db:get_db:16 - connected
+2024-08-19 13:02:33.561 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-19 13:02:34.091 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 2.1841728687286377 seconds
+2024-08-19 13:15:50.658 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-08-19 13:15:50.688 | INFO     | back.db:get_db:12 - connected to db
+2024-08-19 13:15:50.688 | INFO     | back.db:get_db:14 - checking connection
+2024-08-19 13:15:50.691 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-19 13:15:50.692 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-19 13:15:58.034 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-19 13:15:59.021 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-19 13:15:59.501 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 8.843754053115845 seconds
+2024-08-19 13:20:52.699 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-08-19 13:20:52.700 | INFO     | back.db:get_db:12 - connected to db
+2024-08-19 13:20:52.700 | INFO     | back.db:get_db:14 - checking connection
+2024-08-19 13:20:52.701 | ERROR    | back.db:get_db:19 - (psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: select 1 ]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-19 13:20:52.701 | INFO     | back.db:get_db:20 - Reconnecting
+2024-08-19 13:20:59.728 | INFO     | back.db:get_db:25 - Reconnected
+2024-08-19 13:21:00.868 | INFO     | back.db:get_db:28 - Closing connection
+2024-08-19 13:21:01.365 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 8.666234731674194 seconds
+2024-08-19 23:42:01.651 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-20 23:49:42.694 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-20 23:49:44.806 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-20 23:51:48.565 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-20 23:51:48.595 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 10:25:53.460 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 10:26:23.557 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 10:52:06.206 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 10:52:07.681 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 10:52:16.688 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 10:52:17.951 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 10:52:40.505 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 10:52:41.761 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 10:52:46.697 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 10:52:53.160 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:01:21.960 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:01:23.428 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:01:42.188 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:01:43.286 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:01:49.319 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:01:50.504 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:03:19.303 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:03:20.374 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:03:41.609 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:03:43.090 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:04:15.909 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:04:17.051 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:04:28.638 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:04:30.251 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:04:32.566 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:04:33.859 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:05:09.719 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:05:11.246 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:05:31.088 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:05:32.269 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:05:43.965 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:05:45.112 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:05:49.531 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:05:50.586 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:35:51.138 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1
+2024-09-21 11:35:51.326 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:35:51.327 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:35:51.328 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:35:51.331 | ERROR    | back.db:get_db:19 - (psycopg2.errors.SyntaxError) subquery in FROM must have an alias
+LINE 3:         from ( select exercise_id,performed_date,user_id,exe...
+                     ^
+HINT:  For example, FROM (SELECT ...) [AS] foo.
+
+[SQL: select
+        muscle_name,muscle_group_name,exercise_name,to_char(performed_date,'dd-mm-yyy') as performed_date,user_id,exercise_id,exercise_details_id
+        from ( select exercise_id,performed_date,user_id,exercise_details_id from exercise_details  where user_id = %(user_id)s )
+        join exercises  using(exercise_id)
+        join muscle_groups  using(muscle_group_id)
+        join muscles using (muscle_group_id,muscle_id)]
+[parameters: {'user_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:35:51.332 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:35:51.375 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:35:51.448 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/
+2024-09-21 11:35:51.463 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:35:51.463 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:35:51.465 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:35:51.467 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedTable) relation "muscle_group" does not exist
+LINE 1: select * from muscle_groups
+                      ^
+
+[SQL: select * from muscle_groups ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:35:51.467 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:35:51.492 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:38:39.375 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 11:38:39.634 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:38:39.634 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:38:39.644 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:38:39.663 | ERROR    | back.db:get_db:19 - (psycopg2.errors.SyntaxError) subquery in FROM must have an alias
+LINE 3:         from ( select exercise_id,performed_date,user_id,exe...
+                     ^
+HINT:  For example, FROM (SELECT ...) [AS] foo.
+
+[SQL: select
+        muscle_name,muscle_group_name,exercise_name,to_char(performed_date,'dd-mm-yyy') as performed_date,user_id,exercise_id,exercise_details_id
+        from ( select exercise_id,performed_date,user_id,exercise_details_id from exercise_details  where user_id = %(user_id)s )
+        join exercises  using(exercise_id)
+        join muscle_groups  using(muscle_group_id)
+        join muscles using (muscle_group_id,muscle_id)]
+[parameters: {'user_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:38:39.663 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:38:39.706 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:38:39.808 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 11:38:39.828 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:38:39.828 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:38:39.830 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:38:39.838 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:38:39.840 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.03151226043701172 seconds
+2024-09-21 11:42:04.338 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 11:42:04.475 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:42:04.476 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:42:04.477 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:42:04.483 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:42:04.484 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.14628005027770996 seconds
+2024-09-21 11:42:04.634 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 11:42:04.635 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:42:04.636 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:42:04.664 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:42:04.670 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:42:04.672 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.03836798667907715 seconds
+2024-09-21 11:42:12.274 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1 
+2024-09-21 11:42:12.276 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:42:12.277 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:42:12.278 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:42:12.282 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:42:12.283 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 0.008514881134033203 seconds
+2024-09-21 11:42:15.342 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1 
+2024-09-21 11:42:15.344 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:42:15.344 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:42:15.345 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:42:15.349 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:42:15.350 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 0.00865793228149414 seconds
+2024-09-21 11:42:17.125 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1 
+2024-09-21 11:42:17.126 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:42:17.127 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:42:17.128 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:42:17.171 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedColumn) column "user_id" does not exist
+LINE 6:         JOIN (select user_id,exercise_details_id,weight,reps...
+                             ^
+HINT:  There is a column named "user_id" in table "ed", but it cannot be referenced from this part of the query.
+
+[SQL: SELECT
+        string_agg(sd.weight::text, ',') AS weights,
+        string_agg(sd.reps::text, ',') AS reps,
+        sd.set_number
+        FROM (select user_id,exercise_details_id from exercise_details where user_id = %(user_id)s and exercise_id = %(exercise_id)s order by performed_date desc limit 5)ed
+        JOIN (select user_id,exercise_details_id,weight,reps,set_number from set_details where user_id=%(user_id)s and exercise_id = %(exercise_id)s) sd USING(user_id, exercise_details_id)
+        GROUP BY sd.set_number
+        LIMIT 15]
+[parameters: {'user_id': 1, 'exercise_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:42:17.171 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:42:17.187 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:43:19.664 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=2&user_id=1 
+2024-09-21 11:43:19.704 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:43:19.705 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:43:19.706 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:43:19.708 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedColumn) column "user_id" does not exist
+LINE 6:         JOIN (select user_id,exercise_details_id,weight,reps...
+                             ^
+HINT:  There is a column named "user_id" in table "ed", but it cannot be referenced from this part of the query.
+
+[SQL: SELECT
+        string_agg(sd.weight::text, ',') AS weights,
+        string_agg(sd.reps::text, ',') AS reps,
+        sd.set_number
+        FROM (select user_id,exercise_details_id from exercise_details where user_id = %(user_id)s and exercise_id = %(exercise_id)s order by performed_date desc limit 5) as ed
+        JOIN (select user_id,exercise_details_id,weight,reps,set_number from set_details where user_id=%(user_id)s and exercise_id = %(exercise_id)s) as sd USING(user_id, exercise_details_id)
+        GROUP BY sd.set_number
+        LIMIT 15]
+[parameters: {'user_id': 1, 'exercise_id': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:43:19.709 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:43:19.723 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:46:23.818 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1 
+2024-09-21 11:46:23.960 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:46:23.961 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:46:23.962 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:46:23.966 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:46:23.967 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 0.14931511878967285 seconds
+2024-09-21 11:46:25.074 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1 
+2024-09-21 11:46:25.076 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:46:25.077 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:46:25.078 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:46:25.083 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:46:25.084 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 0.010406255722045898 seconds
+2024-09-21 11:46:26.284 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1 
+2024-09-21 11:46:26.285 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:46:26.286 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:46:26.287 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:46:26.289 | INFO     | back.models.exercise:fetchNextSets:77 - Got the previous set
+2024-09-21 11:46:26.290 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:46:26.291 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 0.00677800178527832 seconds
+2024-09-21 11:46:37.577 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/ 
+2024-09-21 11:46:37.578 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.0014982223510742188 seconds
+2024-09-21 11:46:37.581 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:46:37.583 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:46:37.583 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:46:37.584 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:46:37.585 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:46:37.585 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12)]}
+2024-09-21 11:46:37.595 | ERROR    | back.db:get_db:19 - (psycopg2.errors.ForeignKeyViolation) insert or update on table "exercise_details" violates foreign key constraint "exercise_details_user_id_fkey"
+DETAIL:  Key (user_id)=(1) is not present in table "users".
+
+[SQL: INSERT INTO exercise_details(user_id , exercise_id , exercise_details_id , performed_date) VALUES (%(user_id)s , %(exercise_id)s , %(exercise_details_id)s , %(performed_date)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-09-21 11:46:37.595 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:46:37.612 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:46:38.276 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:46:38.288 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:46:38.288 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:46:38.291 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:46:38.294 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:46:38.294 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12)]}
+2024-09-21 11:46:38.296 | ERROR    | back.db:get_db:19 - (psycopg2.errors.ForeignKeyViolation) insert or update on table "exercise_details" violates foreign key constraint "exercise_details_user_id_fkey"
+DETAIL:  Key (user_id)=(1) is not present in table "users".
+
+[SQL: INSERT INTO exercise_details(user_id , exercise_id , exercise_details_id , performed_date) VALUES (%(user_id)s , %(exercise_id)s , %(exercise_details_id)s , %(performed_date)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-09-21 11:46:38.296 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:46:38.311 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:52:05.758 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path users/ 
+2024-09-21 11:52:05.766 | INFO     | back.api:logging_middleware:39 - Processed users/ in 0.00772404670715332 seconds
+2024-09-21 11:52:05.769 | INFO     | back.api:logging_middleware:36 - Request: POST path users/ 
+2024-09-21 11:52:05.802 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:52:05.802 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:52:05.803 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:52:05.804 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:52:05.805 | INFO     | back.api:logging_middleware:39 - Processed users/ in 0.036663055419921875 seconds
+2024-09-21 11:54:35.618 | INFO     | back.api:logging_middleware:36 - Request: POST path users/ 
+2024-09-21 11:54:35.711 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:54:35.711 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:54:35.712 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:54:35.713 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:54:35.714 | INFO     | back.api:logging_middleware:39 - Processed users/ in 0.09571599960327148 seconds
+2024-09-21 11:55:29.567 | INFO     | back.api:logging_middleware:36 - Request: POST path users/ 
+2024-09-21 11:55:29.568 | DEBUG    | back.api:logging_middleware:37 - Body:<coroutine object Request.body at 0x11b09d7e0>
+2024-09-21 11:55:29.619 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:55:29.620 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:55:29.620 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:55:29.621 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:55:29.622 | INFO     | back.api:logging_middleware:40 - Processed users/ in 0.05509662628173828 seconds
+2024-09-21 11:55:47.406 | INFO     | back.api:logging_middleware:36 - Request: POST path users/ 
+2024-09-21 11:55:47.407 | DEBUG    | back.api:logging_middleware:37 - Body:b'{"name":"pp","password":"12345678","gender":"m","age":10,"height":100,"weight":12,"user_id":null}'
+2024-09-21 11:55:47.494 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:55:47.495 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:55:47.496 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:55:47.496 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:55:47.497 | INFO     | back.api:logging_middleware:40 - Processed users/ in 0.0911870002746582 seconds
+2024-09-21 11:57:11.750 | INFO     | back.api:logging_middleware:36 - Request: POST path users/ 
+2024-09-21 11:57:11.756 | DEBUG    | back.api:logging_middleware:37 - Body:b'{"name":"pp","password":"12345678","gender":"m","age":10,"height":100,"weight":12,"user_id":0}'
+2024-09-21 11:57:11.757 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:11.758 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:11.759 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:11.810 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:57:11.811 | INFO     | back.api:logging_middleware:40 - Processed users/ in 0.06153583526611328 seconds
+2024-09-21 11:57:48.430 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1 
+2024-09-21 11:57:48.527 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:48.528 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:48.529 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:48.533 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:57:48.534 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 0.10374903678894043 seconds
+2024-09-21 11:57:49.500 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1 
+2024-09-21 11:57:49.502 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:49.502 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:49.503 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:49.507 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:57:49.508 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 0.007699251174926758 seconds
+2024-09-21 11:57:51.152 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1 
+2024-09-21 11:57:51.153 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:51.154 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:51.155 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:51.159 | INFO     | back.models.exercise:fetchNextSets:77 - Got the previous set
+2024-09-21 11:57:51.161 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:57:51.162 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 0.01058197021484375 seconds
+2024-09-21 11:57:52.097 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/ 
+2024-09-21 11:57:52.098 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.0008461475372314453 seconds
+2024-09-21 11:57:52.101 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:57:52.102 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:52.102 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:52.103 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:52.105 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:57:52.105 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12)]}
+2024-09-21 11:57:52.107 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 11:57:52.115 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedColumn) column "user_id" of relation "set_details" does not exist
+LINE 1: INSERT INTO set_details(user_id , exercise_details_id , exer...
+                                ^
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , exercise_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(exercise_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 1, 'exercise_id': 1, 'set_number': 1, 'weight': 10.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:57:52.115 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:57:52.133 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:57:54.331 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:57:54.345 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:54.345 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:54.347 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:54.350 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:57:54.351 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12)]}
+2024-09-21 11:57:54.353 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 11:57:54.354 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedColumn) column "user_id" of relation "set_details" does not exist
+LINE 1: INSERT INTO set_details(user_id , exercise_details_id , exer...
+                                ^
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , exercise_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(exercise_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 1, 'exercise_id': 1, 'set_number': 1, 'weight': 10.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:57:54.355 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:57:54.373 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:57:57.554 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:57:57.568 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:57:57.568 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:57:57.569 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:57:57.572 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:57:57.573 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12), setDetail(set_number=3, weight=12.0, reps=12)]}
+2024-09-21 11:57:57.575 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 11:57:57.577 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedColumn) column "user_id" of relation "set_details" does not exist
+LINE 1: INSERT INTO set_details(user_id , exercise_details_id , exer...
+                                ^
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , exercise_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(exercise_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 1, 'exercise_id': 1, 'set_number': 1, 'weight': 10.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:57:57.577 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:57:57.594 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:59:10.551 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:59:10.581 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:59:10.581 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:59:10.583 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:59:10.587 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:59:10.587 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12)]}
+2024-09-21 11:59:10.591 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 11:59:10.594 | ERROR    | back.db:get_db:19 - (psycopg2.errors.UndefinedColumn) column "exercise_id" of relation "set_details" does not exist
+LINE 1: ... INTO set_details(user_id , exercise_details_id , exercise_i...
+                                                             ^
+
+[SQL: INSERT INTO set_details(user_id , exercise_details_id , exercise_id , set_number , weight , reps) VALUES (%(user_id)s , %(exercise_details_id)s , %(exercise_id)s , %(set_number)s , %(weight)s , %(reps)s )  ; ]
+[parameters: {'user_id': 1, 'exercise_details_id': 1, 'exercise_id': 1, 'set_number': 1, 'weight': 10.0, 'reps': 12}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-21 11:59:10.594 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:59:10.612 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 11:59:46.565 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:59:46.597 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:59:46.597 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:59:46.598 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:59:46.602 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 11:59:46.602 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12), setDetail(set_number=3, weight=12.0, reps=12)]}
+2024-09-21 11:59:46.605 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 11:59:46.651 | INFO     | back.models.exerciseDetails:insert:125 - Inserted sets 1
+2024-09-21 11:59:46.652 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 11:59:46.653 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.08768892288208008 seconds
+2024-09-21 11:59:55.321 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 11:59:55.322 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 11:59:55.323 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 11:59:55.324 | INFO     | back.db:get_db:16 - connected
+2024-09-21 11:59:55.330 | ERROR    | back.db:get_db:19 - (psycopg2.errors.ForeignKeyViolation) update or delete on table "exercise_details" violates foreign key constraint "set_details_exercise_details_id_fkey" on table "set_details"
+DETAIL:  Key (exercise_details_id)=(1) is still referenced from table "set_details".
+
+[SQL: delete from exercise_details where user_id = %(user_id)s and exercise_id = %(exercise_id)s and exercise_details_id = %(exercise_details_id)s]
+[parameters: {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-09-21 11:59:55.331 | INFO     | back.db:get_db:20 - Reconnecting
+2024-09-21 11:59:55.347 | INFO     | back.db:get_db:25 - Reconnected
+2024-09-21 12:11:18.687 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path users/ 
+2024-09-21 12:11:18.688 | INFO     | back.api:logging_middleware:39 - Processed users/ in 0.0007569789886474609 seconds
+2024-09-21 12:11:18.690 | INFO     | back.api:logging_middleware:36 - Request: POST path users/ 
+2024-09-21 12:11:18.789 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:18.789 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:18.790 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:18.795 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:18.796 | INFO     | back.api:logging_middleware:39 - Processed users/ in 0.10602998733520508 seconds
+2024-09-21 12:11:23.348 | INFO     | back.api:logging_middleware:36 - Request: OPTIONS path exerciseDetails/ 
+2024-09-21 12:11:23.349 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.001074075698852539 seconds
+2024-09-21 12:11:23.352 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 12:11:23.354 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:23.354 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:23.355 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:23.360 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 12:11:23.360 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12), setDetail(set_number=3, weight=12.0, reps=12)]}
+2024-09-21 12:11:23.362 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 12:11:23.367 | INFO     | back.models.exerciseDetails:insert:125 - Inserted sets 1
+2024-09-21 12:11:23.368 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:23.369 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.016997098922729492 seconds
+2024-09-21 12:11:27.550 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 12:11:27.552 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:27.552 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:27.553 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:27.555 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 1
+2024-09-21 12:11:27.555 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 1, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=10.0, reps=12), setDetail(set_number=2, weight=10.0, reps=12), setDetail(set_number=3, weight=12.0, reps=12), setDetail(set_number=4, weight=12.0, reps=12)]}
+2024-09-21 12:11:27.556 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 1
+2024-09-21 12:11:27.558 | INFO     | back.models.exerciseDetails:insert:125 - Inserted sets 1
+2024-09-21 12:11:27.565 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:27.566 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.015722990036010742 seconds
+2024-09-21 12:11:45.532 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:11:45.534 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:45.534 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:45.537 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:45.601 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:45.602 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.06999707221984863 seconds
+2024-09-21 12:11:45.772 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:11:45.786 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:45.786 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:45.804 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:45.841 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:45.844 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.07226395606994629 seconds
+2024-09-21 12:11:47.363 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/set?user_id=1&exercise_details_id=1&exercise_id=1 
+2024-09-21 12:11:47.364 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:47.365 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:47.367 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:47.369 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:47.370 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/set?user_id=1&exercise_details_id=1&exercise_id=1 in 0.007161140441894531 seconds
+2024-09-21 12:11:54.314 | INFO     | back.api:logging_middleware:36 - Request: GET path muscles/?muscle_group_id=1 
+2024-09-21 12:11:54.320 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:54.320 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:54.322 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:54.325 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:54.326 | INFO     | back.api:logging_middleware:39 - Processed muscles/?muscle_group_id=1 in 0.011754035949707031 seconds
+2024-09-21 12:11:55.631 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/?muscle_group_id=1&muscle_id=1 
+2024-09-21 12:11:55.632 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:55.633 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:55.633 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:55.638 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:55.639 | INFO     | back.api:logging_middleware:39 - Processed exercises/?muscle_group_id=1&muscle_id=1 in 0.008193016052246094 seconds
+2024-09-21 12:11:56.865 | INFO     | back.api:logging_middleware:36 - Request: GET path exercises/set/next?exercise_id=1&user_id=1 
+2024-09-21 12:11:56.866 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:56.867 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:56.868 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:56.910 | INFO     | back.models.exercise:fetchNextSets:77 - Got the previous set
+2024-09-21 12:11:56.914 | INFO     | back.models.exercise:fetchNextSets:89 - Predicted the 0 set
+2024-09-21 12:11:56.916 | INFO     | back.models.exercise:fetchNextSets:89 - Predicted the 1 set
+2024-09-21 12:11:56.917 | INFO     | back.models.exercise:fetchNextSets:89 - Predicted the 2 set
+2024-09-21 12:11:56.918 | INFO     | back.models.exercise:fetchNextSets:89 - Predicted the 3 set
+2024-09-21 12:11:56.919 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:56.920 | INFO     | back.api:logging_middleware:39 - Processed exercises/set/next?exercise_id=1&user_id=1 in 0.05511116981506348 seconds
+2024-09-21 12:11:56.941 | INFO     | back.api:logging_middleware:36 - Request: POST path exerciseDetails/ 
+2024-09-21 12:11:56.944 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:11:56.944 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:11:56.945 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:11:56.947 | INFO     | back.models.exerciseDetails:insert:99 - Got exercise details id 2
+2024-09-21 12:11:56.947 | INFO     | back.models.exerciseDetails:insert:100 - {'user_id': 1, 'exercise_id': 1, 'exercise_details_id': 2, 'performed_date': 'Now()', 'sets': [setDetail(set_number=1, weight=12.5, reps=12), setDetail(set_number=2, weight=12.5, reps=12), setDetail(set_number=3, weight=12.5, reps=12), setDetail(set_number=4, weight=12.5, reps=12)]}
+2024-09-21 12:11:56.948 | INFO     | back.models.exerciseDetails:insert:108 - Inserted exercise details 2
+2024-09-21 12:11:56.951 | INFO     | back.models.exerciseDetails:insert:125 - Inserted sets 2
+2024-09-21 12:11:56.952 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:11:56.953 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/ in 0.011619806289672852 seconds
+2024-09-21 12:14:59.917 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:14:59.920 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:14:59.920 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:14:59.953 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:14:59.956 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:14:59.961 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.04435992240905762 seconds
+2024-09-21 12:15:00.031 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:15:00.083 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:15:00.084 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:15:00.085 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:15:00.087 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:15:00.088 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.05714011192321777 seconds
+2024-09-21 12:16:54.073 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:16:54.146 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:16:54.147 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:16:54.150 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:16:54.175 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:16:54.177 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.1044149398803711 seconds
+2024-09-21 12:16:54.241 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:16:54.242 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:16:54.242 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:16:54.243 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:16:54.246 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:16:54.247 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.006453037261962891 seconds
+2024-09-21 12:18:28.542 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:18:28.545 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:18:28.545 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:18:28.553 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:18:28.558 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:18:28.560 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.01830601692199707 seconds
+2024-09-21 12:18:28.622 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:18:28.623 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:18:28.624 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:18:28.631 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:18:28.635 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:18:28.636 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.01368403434753418 seconds
+2024-09-21 12:20:00.932 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:20:00.936 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:20:00.936 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:20:00.937 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:20:00.963 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:20:00.964 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.03198099136352539 seconds
+2024-09-21 12:20:00.970 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:20:00.971 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:20:00.972 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:20:00.972 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:20:00.974 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:20:00.982 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.012454032897949219 seconds
+2024-09-21 12:21:36.756 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:21:36.758 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:21:36.758 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:21:36.907 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:21:36.914 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:21:36.915 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.15929388999938965 seconds
+2024-09-21 12:21:36.922 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:21:36.965 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:21:36.965 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:21:36.966 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:21:36.968 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:21:36.969 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.047738075256347656 seconds
+2024-09-21 12:23:13.597 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 12:23:13.605 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:23:13.606 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:23:13.613 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:23:13.618 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:23:13.619 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.022294044494628906 seconds
+2024-09-21 12:23:13.796 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 12:23:13.983 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 12:23:13.983 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 12:23:13.986 | INFO     | back.db:get_db:16 - connected
+2024-09-21 12:23:13.991 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 12:23:13.992 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.19681715965270996 seconds
+2024-09-21 19:59:58.746 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 19:59:58.747 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 19:59:58.748 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 19:59:58.751 | INFO     | back.db:get_db:16 - connected
+2024-09-21 19:59:58.757 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 19:59:58.758 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.011745929718017578 seconds
+2024-09-21 19:59:58.763 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 19:59:58.765 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 19:59:58.765 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 19:59:58.766 | INFO     | back.db:get_db:16 - connected
+2024-09-21 19:59:58.769 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 19:59:58.770 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.0069239139556884766 seconds
+2024-09-21 20:22:47.275 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 20:22:47.278 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 20:22:47.279 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 20:22:47.280 | INFO     | back.db:get_db:16 - connected
+2024-09-21 20:22:47.282 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 20:22:47.283 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.0076448917388916016 seconds
+2024-09-21 20:22:47.288 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 20:22:47.297 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 20:22:47.298 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 20:22:47.299 | INFO     | back.db:get_db:16 - connected
+2024-09-21 20:22:47.301 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 20:22:47.301 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.01327204704284668 seconds
+2024-09-21 21:24:26.666 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 21:24:26.677 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 21:24:26.677 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 21:24:26.681 | INFO     | back.db:get_db:16 - connected
+2024-09-21 21:24:26.764 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 21:24:26.766 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.10048317909240723 seconds
+2024-09-21 21:24:26.793 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 21:24:26.794 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 21:24:26.794 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 21:24:26.795 | INFO     | back.db:get_db:16 - connected
+2024-09-21 21:24:26.798 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 21:24:26.801 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.008545160293579102 seconds
+2024-09-21 21:33:14.598 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-21 21:33:14.600 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 21:33:14.601 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 21:33:14.602 | INFO     | back.db:get_db:16 - connected
+2024-09-21 21:33:14.694 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 21:33:14.695 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.09728097915649414 seconds
+2024-09-21 21:33:14.708 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-21 21:33:14.709 | INFO     | back.db:get_db:12 - connected to db
+2024-09-21 21:33:14.709 | INFO     | back.db:get_db:14 - checking connection
+2024-09-21 21:33:14.710 | INFO     | back.db:get_db:16 - connected
+2024-09-21 21:33:14.713 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-21 21:33:14.713 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.005408048629760742 seconds
+2024-09-22 09:43:26.657 | INFO     | back.api:logging_middleware:36 - Request: GET path exerciseDetails/?user_id=1 
+2024-09-22 09:43:26.671 | INFO     | back.db:get_db:12 - connected to db
+2024-09-22 09:43:26.672 | INFO     | back.db:get_db:14 - checking connection
+2024-09-22 09:43:26.686 | INFO     | back.db:get_db:16 - connected
+2024-09-22 09:43:26.809 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-22 09:43:26.814 | INFO     | back.api:logging_middleware:39 - Processed exerciseDetails/?user_id=1 in 0.15797805786132812 seconds
+2024-09-22 09:43:26.825 | INFO     | back.api:logging_middleware:36 - Request: GET path muscle_groups/ 
+2024-09-22 09:43:26.827 | INFO     | back.db:get_db:12 - connected to db
+2024-09-22 09:43:26.828 | INFO     | back.db:get_db:14 - checking connection
+2024-09-22 09:43:26.829 | INFO     | back.db:get_db:16 - connected
+2024-09-22 09:43:26.832 | INFO     | back.db:get_db:28 - Closing connection
+2024-09-22 09:43:27.021 | INFO     | back.api:logging_middleware:39 - Processed muscle_groups/ in 0.19660615921020508 seconds
+2024-10-02 22:37:12.160 | INFO     | back-htmx.api:logging_middleware:34 - Request: GET path docs 
+2024-10-02 22:37:12.160 | INFO     | back-htmx.api:logging_middleware:34 - Request: GET path docs 
+2024-10-02 22:37:12.164 | INFO     | back-htmx.api:logging_middleware:37 - Processed docs in 0.003799915313720703 seconds
+2024-10-02 22:37:12.164 | INFO     | back-htmx.api:logging_middleware:37 - Processed docs in 0.003799915313720703 seconds
+2024-10-02 22:37:16.554 | INFO     | back-htmx.api:logging_middleware:34 - Request: GET path openapi.json 
+2024-10-02 22:37:16.554 | INFO     | back-htmx.api:logging_middleware:34 - Request: GET path openapi.json 
+2024-10-02 22:37:16.585 | INFO     | back-htmx.api:logging_middleware:37 - Processed openapi.json in 0.03110194206237793 seconds
+2024-10-02 22:37:16.585 | INFO     | back-htmx.api:logging_middleware:37 - Processed openapi.json in 0.03110194206237793 seconds
+2024-10-02 22:37:31.324 | INFO     | back-htmx.api:logging_middleware:34 - Request: GET path muscle_groups/ 
+2024-10-02 22:37:31.324 | INFO     | back-htmx.api:logging_middleware:34 - Request: GET path muscle_groups/ 
+2024-10-02 22:37:31.574 | INFO     | back.db:get_db:12 - connected to db
+2024-10-02 22:37:31.574 | INFO     | back.db:get_db:12 - connected to db
+2024-10-02 22:37:31.574 | INFO     | back.db:get_db:14 - checking connection
+2024-10-02 22:37:31.574 | INFO     | back.db:get_db:14 - checking connection
+2024-10-02 22:37:31.576 | INFO     | back.db:get_db:16 - connected
+2024-10-02 22:37:31.576 | INFO     | back.db:get_db:16 - connected
+2024-10-02 22:37:31.584 | INFO     | back.db:get_db:28 - Closing connection
+2024-10-02 22:37:31.584 | INFO     | back.db:get_db:28 - Closing connection
+2024-10-02 22:37:31.585 | INFO     | back-htmx.api:logging_middleware:37 - Processed muscle_groups/ in 0.2605559825897217 seconds
+2024-10-02 22:37:31.585 | INFO     | back-htmx.api:logging_middleware:37 - Processed muscle_groups/ in 0.2605559825897217 seconds
+2024-10-02 22:45:17.522 | INFO     | back-htmx.api:logging_middleware:47 - Request: GET path login 
+2024-10-02 22:45:17.522 | INFO     | back-htmx.api:logging_middleware:47 - Request: GET path login 
+2024-10-02 22:45:17.523 | INFO     | back-htmx.api:logging_middleware:50 - Processed login in 0.0014271736145019531 seconds
+2024-10-02 22:45:17.523 | INFO     | back-htmx.api:logging_middleware:50 - Processed login in 0.0014271736145019531 seconds
+2024-10-02 22:45:17.794 | INFO     | back-htmx.api:logging_middleware:47 - Request: GET path favicon.ico 
+2024-10-02 22:45:17.794 | INFO     | back-htmx.api:logging_middleware:47 - Request: GET path favicon.ico 
+2024-10-02 22:45:17.796 | INFO     | back-htmx.api:logging_middleware:50 - Processed favicon.ico in 0.0012271404266357422 seconds
+2024-10-02 22:45:17.796 | INFO     | back-htmx.api:logging_middleware:50 - Processed favicon.ico in 0.0012271404266357422 seconds
+2024-10-02 22:45:21.440 | INFO     | back-htmx.api:logging_middleware:47 - Request: GET path Login 
+2024-10-02 22:45:21.440 | INFO     | back-htmx.api:logging_middleware:47 - Request: GET path Login 
+2024-10-02 22:45:21.441 | INFO     | back-htmx.api:logging_middleware:50 - Processed Login in 0.0009920597076416016 seconds
+2024-10-02 22:45:21.441 | INFO     | back-htmx.api:logging_middleware:50 - Processed Login in 0.0009920597076416016 seconds
+2024-10-02 22:46:26.008 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:46:26.008 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:49:10.159 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:49:10.159 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:53:10.711 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:53:10.711 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:54:09.438 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:54:09.438 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:54:42.404 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:54:42.404 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:55:21.028 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:55:21.028 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 22:55:21.032 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.004058122634887695 seconds
+2024-10-02 22:55:21.032 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.004058122634887695 seconds
+2024-10-02 23:00:08.227 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:00:08.227 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:00:29.168 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:00:29.168 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:00:29.175 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.007630109786987305 seconds
+2024-10-02 23:00:29.175 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.007630109786987305 seconds
+2024-10-02 23:01:36.411 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:01:36.411 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:01:36.414 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.002992868423461914 seconds
+2024-10-02 23:01:36.414 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.002992868423461914 seconds
+2024-10-02 23:01:38.408 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:01:38.408 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:01:38.410 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0014908313751220703 seconds
+2024-10-02 23:01:38.410 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0014908313751220703 seconds
+2024-10-02 23:03:04.449 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:03:04.449 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:03:04.452 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.002830028533935547 seconds
+2024-10-02 23:03:04.452 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.002830028533935547 seconds
+2024-10-02 23:04:06.522 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:04:06.522 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:04:06.523 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0012469291687011719 seconds
+2024-10-02 23:04:06.523 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0012469291687011719 seconds
+2024-10-02 23:05:23.741 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:05:23.741 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:05:23.746 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.005216121673583984 seconds
+2024-10-02 23:05:23.746 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.005216121673583984 seconds
+2024-10-02 23:05:54.209 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:05:54.209 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:05:54.210 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.00164794921875 seconds
+2024-10-02 23:05:54.210 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.00164794921875 seconds
+2024-10-02 23:05:54.919 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path favicon.ico 
+2024-10-02 23:05:54.919 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path favicon.ico 
+2024-10-02 23:05:54.928 | INFO     | back-htmx.api:logging_middleware:47 - Processed favicon.ico in 0.008668899536132812 seconds
+2024-10-02 23:05:54.928 | INFO     | back-htmx.api:logging_middleware:47 - Processed favicon.ico in 0.008668899536132812 seconds
+2024-10-02 23:06:16.223 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:06:16.223 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:06:16.224 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0012869834899902344 seconds
+2024-10-02 23:06:16.224 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0012869834899902344 seconds
+2024-10-02 23:06:18.684 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:06:18.684 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:06:18.685 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0013549327850341797 seconds
+2024-10-02 23:06:18.685 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0013549327850341797 seconds
+2024-10-02 23:06:19.041 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path favicon.ico 
+2024-10-02 23:06:19.041 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path favicon.ico 
+2024-10-02 23:06:19.043 | INFO     | back-htmx.api:logging_middleware:47 - Processed favicon.ico in 0.0019807815551757812 seconds
+2024-10-02 23:06:19.043 | INFO     | back-htmx.api:logging_middleware:47 - Processed favicon.ico in 0.0019807815551757812 seconds
+2024-10-02 23:07:25.122 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:07:25.122 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:07:25.125 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0031337738037109375 seconds
+2024-10-02 23:07:25.125 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0031337738037109375 seconds
+2024-10-02 23:09:39.342 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:09:39.342 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:09:39.350 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.008358001708984375 seconds
+2024-10-02 23:09:39.350 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.008358001708984375 seconds
+2024-10-02 23:12:56.999 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:12:56.999 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:12:57.002 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003014802932739258 seconds
+2024-10-02 23:12:57.002 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003014802932739258 seconds
+2024-10-02 23:13:29.428 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:13:29.428 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:13:29.431 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0030889511108398438 seconds
+2024-10-02 23:13:29.431 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0030889511108398438 seconds
+2024-10-02 23:14:24.247 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:14:24.247 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:14:24.251 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003197908401489258 seconds
+2024-10-02 23:14:24.251 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003197908401489258 seconds
+2024-10-02 23:15:05.157 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:15:05.157 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:15:05.161 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003387928009033203 seconds
+2024-10-02 23:15:05.161 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003387928009033203 seconds
+2024-10-02 23:15:41.488 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:15:41.488 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:15:41.491 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0032050609588623047 seconds
+2024-10-02 23:15:41.491 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.0032050609588623047 seconds
+2024-10-02 23:16:28.110 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:16:28.110 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:16:28.114 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003590822219848633 seconds
+2024-10-02 23:16:28.114 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.003590822219848633 seconds
+2024-10-02 23:37:58.670 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:37:58.670 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:37:58.676 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.005624055862426758 seconds
+2024-10-02 23:37:58.676 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.005624055862426758 seconds
+2024-10-02 23:38:07.655 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:38:07.655 | INFO     | back-htmx.api:logging_middleware:44 - Request: GET path Login 
+2024-10-02 23:38:07.663 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.008051872253417969 seconds
+2024-10-02 23:38:07.663 | INFO     | back-htmx.api:logging_middleware:47 - Processed Login in 0.008051872253417969 seconds

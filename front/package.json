@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate-client": "openapi-ts "
+  },
+  "dependencies": {
+    "@hey-api/client-axios": "^0.2.3",
+    "axios": "^1.7.3",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^2.9.4",
+    "preact": "^10.22.1",
+    "preact-iso": "^2.6.3"
+  },
+  "devDependencies": {
+    "@hey-api/openapi-ts": "^0.52.4",
+    "@preact/preset-vite": "^2.9.0",
+    "eslint": "^8.57.0",
+    "eslint-config-preact": "^1.4.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.3.3"
+  },
+  "eslintConfig": {
+    "extends": "preact"
+  }
+}
