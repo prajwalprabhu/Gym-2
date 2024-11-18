@@ -28,7 +28,9 @@ class ExerciseModel(BaseModel):
         muscle_id: int | None = None,
         exercise_id: int | None = None,
     ) -> List["ExerciseModel"]:
-        query = "select * from exercises join muscle_groups using(muscle_group_id) join muscles using(muscle_group_id,muscle_id) "
+        query = "SELECT exercises.* FROM muscle_groups "
+        query += "JOIN muscles USING (muscle_group_id) "
+        query += "JOIN exercises USING (muscle_id) "
         param = {}
         if muscle_group_id:
             query += " where muscle_group_id = :muscle_group_id "
@@ -46,15 +48,15 @@ class ExerciseModel(BaseModel):
         conn: Connection, exercise_id: int, user_id: int
     ) -> List["ExerciseModel.setDetail"]:
         query = text(
-        #     """SELECT
-        # string_agg(sd.weight::text, ',') AS weights,
-        # string_agg(sd.reps::text, ',') AS reps,
-        # sd.set_number
-        # FROM (select user_id,exercise_details_id from exercise_details where user_id = :user_id and exercise_id = :exercise_id order by performed_date desc limit 5) as ed
-        # JOIN (select user_id,exercise_details_id,weight,reps,set_number from set_details where user_id=:user_id and exercise_id = :exercise_id) as sd USING(user_id, exercise_details_id)
-        # GROUP BY sd.set_number
-        # LIMIT 15"""
-         """SELECT
+            #     """SELECT
+            # string_agg(sd.weight::text, ',') AS weights,
+            # string_agg(sd.reps::text, ',') AS reps,
+            # sd.set_number
+            # FROM (select user_id,exercise_details_id from exercise_details where user_id = :user_id and exercise_id = :exercise_id order by performed_date desc limit 5) as ed
+            # JOIN (select user_id,exercise_details_id,weight,reps,set_number from set_details where user_id=:user_id and exercise_id = :exercise_id) as sd USING(user_id, exercise_details_id)
+            # GROUP BY sd.set_number
+            # LIMIT 15"""
+            """SELECT
             string_agg(sd.weight::text, ',') AS weights,
             string_agg(sd.reps::text, ',') AS reps,
             sd.set_number
