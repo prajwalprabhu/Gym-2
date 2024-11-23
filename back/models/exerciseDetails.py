@@ -48,7 +48,8 @@ class ExercisedetailsModel(BaseModel):
         from ( {full_query} ) as ed
         join exercises  using(exercise_id)
         join muscle_groups  using(muscle_group_id)
-        join muscles using (muscle_group_id,muscle_id)"""
+        join muscles using (muscle_group_id,muscle_id)
+        order by ed.performed_date desc"""
         data: List[FetchAll] = (
             conn.execute(text(full_query), params).mappings().all()
         )  # type:ignore
@@ -154,6 +155,6 @@ class ExercisedetailsModel(BaseModel):
             GROUP BY
                 ed.user_id, ed.exercise_id, e.exercise_name, ed.performed_date
             ORDER BY
-                exercise_date;
+                exercise_date ;
 """)
         return conn.execute(query, {"user_id": user_id, "exercise_id": exercise_id}).mappings().all() # type:ignore

@@ -28,6 +28,7 @@ class ExerciseModel(BaseModel):
         muscle_id: int | None = None,
         exercise_id: int | None = None,
     ) -> List["ExerciseModel"]:
+        # sort by number of exercises performed count the number from exercise details
         query = "SELECT exercises.* FROM muscle_groups "
         query += "JOIN muscles USING (muscle_group_id) "
         query += "JOIN exercises USING (muscle_group_id,muscle_id) "
@@ -41,6 +42,7 @@ class ExerciseModel(BaseModel):
             if exercise_id:
                 query += " and exercise_id = :exercise_id "
                 param["exercise_id"] = exercise_id
+        query += " order by (select count(*) from exercise_details where exercise_id = exercises.exercise_id) desc"
         return conn.execute(text(query), param).mappings().all()  # type: ignore
 
     @staticmethod
