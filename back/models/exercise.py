@@ -30,7 +30,7 @@ class ExerciseModel(BaseModel):
     ) -> List["ExerciseModel"]:
         query = "SELECT exercises.* FROM muscle_groups "
         query += "JOIN muscles USING (muscle_group_id) "
-        query += "JOIN exercises USING (muscle_id) "
+        query += "JOIN exercises USING (muscle_group_id,muscle_id) "
         param = {}
         if muscle_group_id:
             query += " where muscle_group_id = :muscle_group_id "

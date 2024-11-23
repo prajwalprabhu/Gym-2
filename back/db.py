@@ -8,7 +8,7 @@ mode = "local" if os.environ.get("RENDER") is None else "render"
 connection_url = (
     "postgresql://gym_w4s6_user:RVjtnRCmHmmeeq1mcMIHsLbskC0SDTv4@dpg-cstl2n8gph6c739g7l4g-a/gym_w4s6"
     if mode != "local"
-    else "postgresql://postgres:amin123@localhost:5432/gym"
+    else "postgresql://tprajwalprabhu:@localhost:5432/gym"
 )
 db = create_engine(connection_url)
 
