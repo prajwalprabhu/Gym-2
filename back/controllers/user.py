@@ -43,4 +43,4 @@ class UserController:
     ) -> LoginResponse:
         data: List[UserModel] = UserModel.login(conn, data)
         print(data)
-        return LoginResponse(success=len(data) > 0, user_id=data[0].user_id, user_name=data[0].name)
+        return LoginResponse(success=len(data) > 0, user_id=data[0].user_id if len(data) > 0 else -1, user_name=data[0].name if len(data) > 0 else "")
